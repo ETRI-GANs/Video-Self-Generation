@@ -12,3 +12,5 @@
 
 - UCF-101 벤치마크 데이터에 대한 자가증식 데이터셋 업로드 완료 (2018.11.12.)
   - https://github.com/ETRI-GANs/Video-Self-Generation/tree/master/generatedData/GD_UCF
+  
+  ![dataset_thubnails](./dataset_thubnails.PNG)
